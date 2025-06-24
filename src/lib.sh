@@ -2,3 +2,4 @@
 set -eu
 
 echo "skills-janitor"
+# drop an unused branch
